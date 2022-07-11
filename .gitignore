@@ -3,3 +3,8 @@
 ################################################################################
 
 *.sqlite
+/.vs/VSWorkspaceState.json
+/.vs/Dynamics-365
+/TheYu/.vs/TheYu
+/TheYu/packages
+/TheYu/TheYu.Plugins/obj/Debug
