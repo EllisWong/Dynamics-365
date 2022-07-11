@@ -15,7 +15,7 @@ namespace TheYu.Plugins
     /// Registered Message:RetrieveMultiple
     /// Target Entity:{YOUR ENTITY}
     /// Filter Attributes:{YOUR ENTITY ATTRIBUTE TRIGGER FIELD}
-    /// Event Stage:Update+Pre-Operation
+    /// Event Stage:Pre-Operation
     /// Execution Mode:Sync
     /// </summary>
     public class RetrieveMultipleFilterPlugin : IPlugin
