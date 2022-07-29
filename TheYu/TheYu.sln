@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheYu.Plugins", "TheYu.Plugins\TheYu.Plugins.csproj", "{35F7D741-3277-4EDE-8658-8F3144627C0A}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Key", "Key", "{9DE60AB2-9C9F-4B59-AFD5-64797B6A8140}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheYu.CRM.WebResources", "TheYu.CRM.WebResources\TheYu.CRM.WebResources.csproj", "{A57B0362-A87B-4A17-A79C-0AF7F14AE4BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheYu.CRM.Plugins", "TheYu.CRM.Plugins\TheYu.CRM.Plugins.csproj", "{35F7D741-3277-4EDE-8658-8F3144627C0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A57B0362-A87B-4A17-A79C-0AF7F14AE4BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A57B0362-A87B-4A17-A79C-0AF7F14AE4BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A57B0362-A87B-4A17-A79C-0AF7F14AE4BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A57B0362-A87B-4A17-A79C-0AF7F14AE4BC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{35F7D741-3277-4EDE-8658-8F3144627C0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{35F7D741-3277-4EDE-8658-8F3144627C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35F7D741-3277-4EDE-8658-8F3144627C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU

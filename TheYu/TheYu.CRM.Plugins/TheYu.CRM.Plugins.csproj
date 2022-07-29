@@ -7,8 +7,8 @@
     <ProjectGuid>{35F7D741-3277-4EDE-8658-8F3144627C0A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TheYu.Plugins</RootNamespace>
-    <AssemblyName>TheYu.Plugins</AssemblyName>
+    <RootNamespace>TheYu.CRM.Plugins</RootNamespace>
+    <AssemblyName>TheYu.CRM.Plugins</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

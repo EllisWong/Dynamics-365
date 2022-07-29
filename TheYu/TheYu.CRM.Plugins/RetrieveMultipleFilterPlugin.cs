@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using System.Xml;
 using System.Xml.Linq;
 
-namespace TheYu.Plugins
+namespace TheYu.CRM.Plugins
 {
     /// <summary>
     /// Filtering Data When RetrieveMultiple Message is triggered.

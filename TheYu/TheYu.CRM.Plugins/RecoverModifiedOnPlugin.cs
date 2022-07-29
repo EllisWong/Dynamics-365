@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TheYu.Plugins
+namespace TheYu.CRM.Plugins
 {
     /// <summary>
     /// Keep ModifiedOn Date when a record updated。
